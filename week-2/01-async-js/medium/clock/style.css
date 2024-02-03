@@ -1,0 +1,21 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#clock {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 400px;
+  height: 70px;
+  border-radius: 10px;
+  font-size: 20px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
